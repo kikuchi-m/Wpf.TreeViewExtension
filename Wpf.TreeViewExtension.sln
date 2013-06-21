@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.TreeViewExtension", "Wpf.TreeViewExtension\Wpf.TreeViewExtension.csproj", "{A309E6E1-FB87-4886-90C2-DF28D52ADCB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.TreeViewExtension.Test", "Wpf.TreeViewExtension.Test\Wpf.TreeViewExtension.Test.csproj", "{DE6742A2-4367-43AA-8526-ABD0F7C2A3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A309E6E1-FB87-4886-90C2-DF28D52ADCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A309E6E1-FB87-4886-90C2-DF28D52ADCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A309E6E1-FB87-4886-90C2-DF28D52ADCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A309E6E1-FB87-4886-90C2-DF28D52ADCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6742A2-4367-43AA-8526-ABD0F7C2A3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6742A2-4367-43AA-8526-ABD0F7C2A3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6742A2-4367-43AA-8526-ABD0F7C2A3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6742A2-4367-43AA-8526-ABD0F7C2A3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

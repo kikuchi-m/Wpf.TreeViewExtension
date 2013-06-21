@@ -1,0 +1,10 @@
+Wpf.TreeViewExtension
+=====================
+Extensions of WPF(Windows Presentation Foundation) controls, TreeView and TreeViewItem.
+
+ * ITreeViewItemVisitor interface
+   Scans all TreeViewItem controls in TreeView, or a TreeViewItem controls and all children of it.
+ 
+ * TreeView.SelectItemFromHeader method
+   Select a TreeViewItem by programmatically.
+   The parameter header is the object contained in the TreeViewItem to select.
